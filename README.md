@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Abderrahim Jridi
 
-🎓 Master’s in Data & AI | 📊 Data Analyst | 🤖 AI & Automation Enthusiast
+🎓 Master’s in Data & AI | 📊 Data Scientist | 🤖 AI & Automation Enthusiast
 
 ---
 
