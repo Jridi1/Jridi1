@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello! I'm Abderrahim Jridi
 
-<!--
-**Jridi1/Jridi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Data & AI | 📊 Data Analyst | 🤖 AI & Automation Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I help businesses transform raw data into insights and automation into action.
+
+With a background in **data analytics**, **AI**, and **workflow automation**, I design practical solutions that drive strategic decisions and operational efficiency. Whether it's visualizing KPIs or building intelligent tools, I love using data to solve real-world problems.
+
+**Key experiences:**
+- Automated reporting and pipelines with Python and Make.com
+- Designed Power BI dashboards to support business operations
+- Built AI-driven tools for NLP tasks (quotes to speech, summarization, etc.)
+- Modeled hospital flows with agent-based simulation for wait time optimization
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, R, SQL, HTML, JavaScript  
+- **Libraries**: Pandas, NumPy, Scikit-learn  
+- **BI / Viz**: Power BI  
+- **Databases**: MongoDB, PostgreSQL, Oracle  
+- **Automation**: Make (Integromat), Python scripting  
+- **Other**: Streamlit, FastAPI, MLflow, Git, LaTeX  
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abderrahim-jridi)  
+- 📧 abderrahim.jridi[at]gmail.com  
+
+---
+
+> “Data is the new oil — but only if refined.”  
+Let’s build something valuable with it 🚀
