@@ -6,7 +6,7 @@
 
 ## 🚀 À propos
 
-Data Scientist avec 2 ans d'expérience en **NLP, LLM et systèmes GenAI** — de l'annotation de corpus à la mise en production.
+Data Scientist avec 2 ans d'expérience en **NLP, LLM et systèmes GenAI** , de l'annotation de corpus à la mise en production.
 
 J'ai conçu et déployé un produit SaaS d'IA générative de zéro à **500+ utilisateurs actifs** (Stable Diffusion, HuggingFace, Docker, CI/CD), construit des **pipelines RAG multi-agent** (LangChain, LlamaIndex, FAISS), et amélioré des modèles de classification texte de **71% à 84% de F1** en contexte bancaire.
 
