@@ -33,7 +33,7 @@ comprendre un problème métier avant de choisir un algorithme.
 
 ## 🧪 Projet en avant
 
-### 📚 [DocMind — Assistant RAG sur base documentaire](https://github.com/Jridi1/docmind-rag-assistant)
+### 📚 [DocMind — Assistant RAG sur base documentaire](https://github.com/Jridi1/rag-docmind-assistant)
 
 Assistant conversationnel s'appuyant sur un corpus de documents : ingestion, chunking, embeddings locaux
 (sentence-transformers), retrieval FAISS, génération via Groq (Llama 3.1), interface Gradio. Projet construit
