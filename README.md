@@ -1,54 +1,60 @@
-# 👋 Abderrahim Jridi — Data Scientist
+# Abderrahim Jridi
 
-🎓 Master Data & IA (Lille) · Ingénieur en Statistique et Analyse de l'Information (ESSAI) · 📍 Paris, France
+AI Engineer. I build AI agents and RAG systems, and Power BI dashboards for data analysis.
 
----
+Master's in Data and AI (Université Catholique de Lille), engineering degree in statistics and information analysis (ESSAI, Tunis).
 
-## 🚀 À propos
+## About
 
-Data Scientist avec une expérience concrète sur l'ensemble du cycle ML : collecte de données, NLP
-(classification de texte, LSTM), modèles de classification (XGBoost, Random Forest), et déploiement
-(applications web, dashboards).
+I build AI agents and LLM applications, and I care about getting them to actually run. I deployed an NLP system in production at Zitouna Bank using Django, and today I work on RAG and agentic architectures.
 
-Actuellement en approfondissement pratique des architectures RAG et agentiques (certifié **IBM RAG and
-Agentic AI**), via la construction d'un assistant RAG de bout en bout (LangChain, FAISS, Groq) — visible
-ci-dessous.
+On the analytics side, I build Power BI dashboards that turn raw data into something a team can use to make decisions.
 
-Ce qui me motive : l'écart entre la performance d'un modèle en notebook et son usage réel. J'aime
-comprendre un problème métier avant de choisir un algorithme.
+My approach is simple: understand the business problem first, pick the tools second, then ship something people actually use.
 
----
+I'm happy to talk about AI engineering roles.
+<!--
+## Current project
 
-## 🛠️ Stack technique
+**[DocMind](LINK_TO_DOCMIND)**, a RAG assistant over a document base.
 
-| Domaine | Outils |
-|---|---|
-| **Langages & Data** | Python (Pandas, NumPy), SQL, MongoDB |
-| **Machine Learning** | Scikit-learn, XGBoost, Random Forest, Decision Trees |
-| **Deep Learning & NLP** | TensorFlow/Keras, LSTM, NLP, notions RAG (LangChain, FAISS) — en approfondissement |
-| **Restitution & Web** | Power BI, Django, Selenium, Figma |
-| **Outils** | Git, QuPath |
+Document ingestion and chunking, local embeddings (sentence-transformers), FAISS retrieval, generation through Groq (Llama 3.1), Gradio interface. I built it end to end to put the IBM RAG and Agentic AI certification into practice.
+-->
+<!--
+## AI agents
 
----
+Add one agent project here: what it does, what tools it uses, link.
+-->
 
-## 🧪 Projet en avant
+<!--
+## Power BI
 
-### 📚 [DocMind — Assistant RAG sur base documentaire](https://github.com/Jridi1/rag-docmind-assistant)
+Add one dashboard project here: the dataset, the question it answers, link or screenshot.
+-->
 
-Assistant conversationnel s'appuyant sur un corpus de documents : ingestion, chunking, embeddings locaux
-(sentence-transformers), retrieval FAISS, génération via Groq (Llama 3.1), interface Gradio. Projet construit
-pour mettre en pratique la certification IBM RAG and Agentic AI.
+## Experience
 
----
+- **Zitouna Bank**: NLP system deployed in production, Django backend.
+- **Enedis**: work-study (alternance).
+- **Factory Of The Sol**: early-stage startup.
 
-## 📜 Certifications
+## Stack
 
-- **IBM RAG and Agentic AI Professional Certificate** — IBM / Coursera
-- Certifications Data Science — DataCamp
+| Area | Tools |
+| --- | --- |
+| AI and agents | Python, LangChain, FAISS, Groq, sentence-transformers, Gradio |
+| Data and analytics | Power BI, SQL, Pandas, NumPy, MongoDB |
+| Backend and web | FastAPI, Django, JavaScript |
+| Tools | Docker, Git |
 
----
+## Education and certifications
 
-## 📫 Me contacter
+- IBM RAG and Agentic AI Professional Certificate (IBM, Coursera)
+- Data Science certifications (DataCamp)
+- Master's in Data and AI, Université Catholique de Lille
+- Engineering degree, ESSAI (Tunis)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahim-jridi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeridi.abderahim@gmail.com)
+## Contact
+
+- Email: [jeridi.abderrahim@gmail.com](mailto:jeridi.abderrahim@gmail.com)
+- LinkedIn: [linkedin.com/in/abderrahim-jridi](https://www.linkedin.com/in/abderrahim-jridi)
