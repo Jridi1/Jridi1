@@ -32,6 +32,14 @@ Add one agent project here: what it does, what tools it uses, link.
 Add one dashboard project here: the dataset, the question it answers, link or screenshot.
 -->
 
+### AI agents
+
+**Current project**
+
+**[CSV Data Analyst Agent](https://github.com/Jridi1/data-analysis-agent)**, a data analysis agent whose model written Python runs in a locked down Docker sandbox.
+The LLM (Groq) writes the code, and the sandbox runs it with no network, no secrets, read only files and limits on time, memory and output. I built it after a test showed that the standard LangChain pandas agent exposes API keys. It comes with an attack test suite and a full fraud analysis under temporal drift (PR-AUC 0.37 on a sealed test set).
+
+**Earlier projects**
 ## Experience
 
 - **Zitouna Bank**: NLP system deployed in production, Django backend.
